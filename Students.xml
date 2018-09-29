@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="ru.innopolis.stc.xmlserializer.Students">
+  <void property="id">
+   <int>25436</int>
+  </void>
+  <void property="name">
+   <string>Ramil Gaisin</string>
+  </void>
+  <void property="status">
+   <boolean>true</boolean>
+  </void>
+ </object>
+</java>
